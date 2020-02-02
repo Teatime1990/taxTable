@@ -2,7 +2,7 @@
 window.onload = function(){
     console.log("connect successfully");
 
-    var endDate = new Date(2021, 1, 1);
+    var endDate = new Date(2021, 0, 1);
 
     var body = $('#contents1');
 
